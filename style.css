@@ -1,9 +1,9 @@
 @charset "utf-8";
 
-.resizeimage img {
-                  width: 100%;
+body {
+      background-color: silver;
 }
 
-body {
-      background-color: #C0C0C0;
+.resizeimage img {
+                  width: 100%;
 }
