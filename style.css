@@ -14,7 +14,7 @@ body {
          list-style: none;
 }
 
-.title {
+.title h1 {
         top: 275px;
         text-align: center;
         width: 100%;
