@@ -32,6 +32,7 @@ body {
 
 .navi {
        position: absolute;
+       top: 355px;
        left: 10px;
        width: 165px;
        border-color: #000000;
@@ -46,8 +47,7 @@ body {
        left: 195px;
 }
 
-.sub {
-      top: 355px;
+.sub  {
       position: absolute;
       width: 100%;
       height: 60px;
