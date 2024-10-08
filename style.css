@@ -19,6 +19,8 @@ body {
         text-align: center;
         width: 100%;
         height: 80px;
+        line-height: 80px;
+        font-size: 300%;
         object-fit: cover;
         background: #808080;
         border-bottom: solid 3px #a9a9a9;
