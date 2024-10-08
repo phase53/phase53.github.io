@@ -10,8 +10,9 @@ body {
                   object-fit: cover;
 }
 
-.global ul {
-            list-style-type: none;
+.global {
+         list-style: none;
+         padding-left: 0;
 }
 
 .navi {
