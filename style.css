@@ -23,8 +23,9 @@ body {
         font-size: 300%;
         object-fit: cover;
         background: #808080;
-        border-bottom: solid 3px #a9a9a9;
-
+        border-bottom-style: solid;
+        border-bottom-width: 3px;
+        border-bottom-color: #a9a9a9;
 }
 
 
