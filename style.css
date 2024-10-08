@@ -12,13 +12,13 @@ body {
 
 .global {
          list-style: none;
-         padding: 5% 10%;
 }
 
 .navi {
        position: absolute;
        top: 280px;
        left: 10px;
+       width: 150px;
        border-color: #000000;
        border-style: solid;
        border-width: 3px;
